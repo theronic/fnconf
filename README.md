@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# fnconf
 
-You can use the [editor on GitHub](https://github.com/theronic/fnconf/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<small>fn/fun/funk/functional + conference. Link [to register](https://docs.google.com/forms/d/e/1FAIpQLScqK4XzaMTobKjpi4P_DkigrSbni2XsfqL59qdkQ9XRC-WwRw/viewform).</small>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Get your func on at fnconf, an inter-disciplinary meeting of minds to facilitate high-value trades between technomaths[^1] and improve our negotiation skills.
 
-### Markdown
+[^1]: technology + diplomat = technomath.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Why
 
-```markdown
-Syntax highlighted code block
+> "For important negotiations we don't send telegrams; we send ambassadors." - Alan Kay
 
-# Header 1
-## Header 2
-### Header 3
+The problem with ambassadors is they only speak one language...typically French. But to travel between worlds, you need to have each of your bi-lingual legs in a different land. To negotiate across borders, you must be fluent in two languages, typically business and tech. You need a diplomat.
 
-- Bulleted
-- List
+## What
 
-1. Numbered
-2. List
+fnconf is an informal 1-day/1-night gathering near a beach, a braai and some funky tunes.
 
-**Bold** and _Italic_ and `Code` text
+- One day.
+- Lightning talks (no PowerPoint).
+- One night.
+- One braai.
 
-[Link](url) and ![Image](src)
-```
+## Who
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Do you spend most of your time negotiating between disciplines? fnconf welcomes:
 
-### Jekyll Themes
+ - Engineers - embedded, software, industrial, chemical, mechanical, biomedical, industrial, civil
+ - Mathematicians
+ - Financiers
+ - Marketers
+ - Negotiators
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theronic/fnconf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## When
 
-### Support or Contact
+2019, mid-May. Exact date to be confirmed.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Where
+
+<1h30 & <100km out of Cape Town. Location to be confirmed.
+
+## How
+
+We have limited space. To attend, [apply here](https://docs.google.com/forms/d/e/1FAIpQLScqK4XzaMTobKjpi4P_DkigrSbni2XsfqL59qdkQ9XRC-WwRw/viewform).
