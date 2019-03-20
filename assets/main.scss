@@ -3,7 +3,7 @@
 
 $text-color: #46433A;
 $anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+$background-color: #EAFFEA; /* #F1EED9*/
 
 body {
 	font-family: 'Vollkorn', serif;
@@ -126,13 +126,12 @@ footer {
 	to accomodate both the header column and the content column */
 	.wrapper {
 		width: 680px;
+		display: grid;
+		grid-template-columns: 1fr 2fr;
 	}
 
-	/* the header column stays left and has a dynamic width with all contents
-	aligned right */
 	header {
-		float: left;
-		width: 46%;
+
 		text-align: right;
 	}
 
@@ -140,11 +139,5 @@ footer {
 	.logo-container,
 	.tagline-container p {
 		text-align: right;
-	}
-
-	main {
-		width: 46%;
-		margin-left: 54%;
-		padding: 0;
 	}
 }

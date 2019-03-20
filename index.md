@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+
 <div class="wrapper">
     <header>
         {% if site.compass.logo %}
@@ -19,8 +20,8 @@ layout: base
     </header>
     <main>
       {% if site.compass.include_content %}
-      <div class="content">
-        {% include content.html %}
+      <div class="content" markdown="1">
+        {% include content.md %}
       </div>
       {% endif %}
     </main>
