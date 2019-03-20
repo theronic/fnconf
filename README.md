@@ -1,21 +1,44 @@
-# Documentation
+# fnconf
 
-Compass is a Jekyll theme designed with something very specific in mind: to be a simple and elegant personal landing page that can be easily deployed to [GitHub Pages](https://pages.github.com/).
+<small>fn/fun/funk/functional + conference. Link [to register](https://docs.google.com/forms/d/e/1FAIpQLScqK4XzaMTobKjpi4P_DkigrSbni2XsfqL59qdkQ9XRC-WwRw/viewform).</small>
 
-## How to use Compass
+Get your func on at fnconf, an inter-disciplinary meeting of minds to facilitate high-value trades between technomaths[^1] and improve our negotiation skills.
 
-1. Start by [installing Bundler](http://bundler.io) `gem install bundler`
-2. [Fork the Compass repository](https://github.com/excentris/compass/fork)
-3. Clone the repository you just forked: `git clone https://github.com/YOUR-USER/compass`
-4. Then run `bundle install` to get [Jekyll](http://jekyllrb.com) and all the dependencies.
-5. Edit `_config.yml` as needed.
-6. Run the Jekyll server with `bundle exec jekyll serve`
-7. Go to `http://localhost:4000`
+[^1]: technology + diplomat = technomath.
 
-## Deploy your site to GitHub Pages
+## Why
 
-If you want to use Compass as your personal landing page you can deploy your site to GitHub Pages as a [User Page](https://help.github.com/articles/user-organization-and-project-pages/#user--organization-pages). To do so, when you are done modifying your clone, you should rename your repository to `username.github.io` where username is your username. When GitHub builds the page it will be made available at `https://username.github.io`.
+> "For important negotiations we don't send telegrams; we send ambassadors." - Alan Kay
 
-If you are planning on using a custom domain to direct to your site, modify the CNAME file as described [here](https://help.github.com/articles/adding-a-cname-file-to-your-repository/).
+The problem with ambassadors is they only speak one language...typically French. But to travel between worlds, you need to have each of your bi-lingual legs in a different land. To negotiate across borders, you must be fluent in two languages, typically business and tech. You need a diplomat.
 
-Check the [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/) for more information.
+## What
+
+fnconf is an informal 1-day/1-night gathering near a beach, a braai and some funky tunes.
+
+- One day.
+- Lightning talks (no PowerPoint).
+- One night.
+- One braai.
+
+## Who
+
+Do you spend most of your time negotiating between disciplines? fnconf welcomes:
+
+ - Engineers - embedded, software, industrial, chemical, mechanical, biomedical, industrial, civil
+ - Mathematicians
+ - Financiers
+ - Marketers
+ - Negotiators
+
+## When
+
+2019, mid-May. Exact date to be confirmed.
+
+## Where
+
+<1h30 & <100km out of Cape Town. Location to be confirmed.
+
+## How
+
+We have limited space. To attend, [apply here](https://docs.google.com/forms/d/e/1FAIpQLScqK4XzaMTobKjpi4P_DkigrSbni2XsfqL59qdkQ9XRC-WwRw/viewform).
